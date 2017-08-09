@@ -1,2 +1,2 @@
 # LMS
-A Simple LMS based on PHP Laravel Framework.
+A Simple Library Management System based on PHP Laravel Framework.
