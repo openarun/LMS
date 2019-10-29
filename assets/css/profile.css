@@ -1,25 +1,49 @@
 <style type="text/css">
-form h1 {
-color: white;
-text-align: center;
+div p {
+	color: white;
+	text-align: center;
+	font-size: 36;
 }
-form {
+ p 2 {
+	color: white;
+	text-align: left;
+	font-size: 24;
+}
+
+fieldset img {
+	display: block;
+	float: right;
+}
+	fieldset input {
+	float: right;
+}
+	form {
 font-size: 22px;
-color: white;
+color: blue;
 }
-input {
+	input {
 display: block;
 clear: both;
 }
-fieldset {
-margin: 1em 180;
+	fieldset {
+margin: 1em 140;
 background-color: pink;
+
 }
-label input {
+	label input {
 display: block;
 color: red;
 }
-body {
+	body {
 background: blue;
+
+}
+body p2 {
+background: green;
+font-size: 26;
+
+}
+.mytext{
+	width: 300;
 }
 </style>
